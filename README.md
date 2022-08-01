@@ -9,3 +9,5 @@ python detect.py --weights ./runs/train/exp/weights/best.pt --source data/images
 
 python test.py --data mask_data.yaml --weights ./runs/train/exp/weights/best.pt
 ```
+
+<img src="https://github.com/TtZJ2/yolov5-Mask-Detection/tree/main/runs/detect/*jpg" width="900">
