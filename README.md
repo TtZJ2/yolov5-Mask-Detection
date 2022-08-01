@@ -10,4 +10,8 @@ python detect.py --weights ./runs/train/exp/weights/best.pt --source data/images
 python test.py --data mask_data.yaml --weights ./runs/train/exp/weights/best.pt
 ```
 
-<img src="https://github.com/TtZJ2/yolov5-Mask-Detection/tree/main/runs/detect/*.jpg" width="900">
+<img src="https://github.com/TtZJ2/yolov5-Mask-Detection/tree/main/runs/detect/4.jpg" width="1000">
+<img src="https://github.com/TtZJ2/yolov5-Mask-Detection/tree/main/runs/detect/a.jpg" width="1000">
+<img src="https://github.com/TtZJ2/yolov5-Mask-Detection/tree/main/runs/detect/OIP-C.jpg" width="1000">
+<img src="https://github.com/TtZJ2/yolov5-Mask-Detection/tree/main/runs/detect/4_Dancing_Dancing_4_490.jpg" width="1000">
+
